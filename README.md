@@ -1,4 +1,9 @@
 ### Hi there 👋 I'm Mustafa Abdelbadea,
+___
+<div id="badges" align="center">
+  <a href="http://linkedin.com/mustafa-abdelbadea/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mustafaabdelbadea&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
