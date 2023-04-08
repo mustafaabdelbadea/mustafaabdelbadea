@@ -27,10 +27,15 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mustafaabdelbadea&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaabdelbadea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mustaafaabdelbadea)
 
