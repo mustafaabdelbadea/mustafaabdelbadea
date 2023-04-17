@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Mustafa Abdelbadea,
 
 <div align="center">
-<img src="DevOps.gif" width="50%" height="50%" alt="DevOps">
+<img src="./images/DevOps.gif" width="50%" height="50%" alt="DevOps">
 
 </div>
 
@@ -57,6 +57,14 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mustaafaabdelbadea)
 
+
+## ⚡ Certificates
+
+<div align="center">
+<img src="./images/aws-practitioner.jpeg" width="50%" height="50%" alt="AWS">
+<img src="./images/az-900.png" width="50%" height="50%" alt="AZURE">
+
+</div>
 
 
 <!--
