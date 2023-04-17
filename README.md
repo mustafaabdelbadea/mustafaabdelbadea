@@ -61,8 +61,8 @@
 ## ⚡ Certificates
 
 <div align="center">
-<img src="./images/aws-practitioner.jpeg" width="50%" height="50%" alt="AWS">
-<img src="./images/az-900.png" width="50%" height="50%" alt="AZURE">
+<img src="./images/aws-practitioner.jpeg" width="45%" height="45%" alt="AWS">
+<img src="./images/az-900.png" width="45%" height="45%" alt="AZURE">
 
 </div>
 
