@@ -1,5 +1,10 @@
 ## Hi there 👋 I'm Mustafa Abdelbadea,
 
+<div align="center">
+<img src="DevOps.gif" width="50%" height="50%" alt="DevOps">
+
+</div>
+
 ## 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-mustafaabdelbadea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafaabdelbadea/)](https://www.linkedin.com/in/mustafa-abdelbadea/)
@@ -38,6 +43,7 @@
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mustaafaabdelbadea)
+
 
 
 <!--
